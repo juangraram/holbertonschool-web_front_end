@@ -12,7 +12,7 @@ body {
     font-size: $fontbody; 
     h1 {
       font-size: $fonth1; 
-        .smaller { 
+        &.smaller { 
         font-size: $fontClass; 
         }
     }
