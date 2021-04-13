@@ -41,9 +41,167 @@ Create your first HTML file 0-index.html with:
 * After the doctype, open and close a html tag
 * Add the language tag, specify English for ISO language code and add the direction tag (ltr or rtl) on the html tag.
 * Open your file in your browser (the page should be blank)
-juangraram@juangraram$ sass 0-debug_log.scss | head -n 0
+juangraram@juangraram$ 
 ```
-
-
+**[1-index.html](1-index.html)** - Structure your webpage.
+```
+juangraram@juangraram$ 
+```
+**[2-index.html](2-index.html)** - The head - meta charset, viewport, title, description, favicons.
+```
+juangraram@juangraram$ 
+```
+**[3-index.html](3-index.html)** - Simple header, main, footer.
+```
+juangraram@juangraram$ 
+```
+**[article.html](article.html)** - Aside.
+```
+juangraram@juangraram$ 
+```
+**[5-index.html](5-index.html)** - Section.
+```
+juangraram@juangraram$ 
+```
+**[6-index.html](6-index.html)** - Work, News, Testimonial articles.
+```
+juangraram@juangraram$ 
+```
+**[7-index.html](7-index.html)** - Navigation.
+```
+juangraram@juangraram$ 
+```
+**[8-index.html](8-index.html)** - Level 1 headings.
+```
+juangraram@juangraram$ 
+```
+**[9-index.html](9-index.html)** - Level 2 headings.
+```
+juangraram@juangraram$ 
+```
+**[10-index.html](10-index.html)** - Level 3 headings.
+```
+juangraram@juangraram$ 
+```
+**[11-styleguide.html](11-styleguide.html)** - styleguide.
+```
+juangraram@juangraram$ 
+```
+**[12-index.html](12-index.html)** - Paragraphs.
+```
+juangraram@juangraram$ 
+```
+**[13-styleguide.html](13-styleguide.html)** - styleguide paragraphs.
+```
+juangraram@juangraram$ 
+```
+**[14-index.html](14-index.html)** - Span.
+```
+juangraram@juangraram$ 
+```
+**[15-index.html](15-index.html)** - Div.
+```
+juangraram@juangraram$ 
+```
+**[16-index.html](16-index.html)** - Structure your sections.
+```
+juangraram@juangraram$ 
+```
+**[17-index.html](17-index.html)** - Comments.
+```
+juangraram@juangraram$ 
+```
+**[18-index.html](18-index.html)** - link your logo.
+```
+juangraram@juangraram$ 
+```
+**[about.html](about.html)** - Create new pages.
+```
+juangraram@juangraram$ 
+```
+**[20-index.html](20-index.html)** - Add links.
+```
+juangraram@juangraram$ 
+```
+**[21-index.html](21-index.html)** - Add social media links.
+```
+juangraram@juangraram$ 
+```
+**[22-index.html](22-index.html)** - Button links.
+```
+juangraram@juangraram$ 
+```
+**[23-index.html](23-index.html)** - Services, Works, Latest news links.
+```
+juangraram@juangraram$ 
+```
+**[24-index.html](24-index.html)** - List the links.
+```
+juangraram@juangraram$ 
+```
+**[25-index.html](25-index.html)** - Secondary navigation menu.
+```
+juangraram@juangraram$ 
+```
+**[26-styleguide.html](26-styleguide.html)** -  Examples of lists for the styleguide.
+```
+juangraram@juangraram$ 
+```
+**[27-index.html](27-index.html)** - Separate content.
+```
+juangraram@juangraram$ 
+```
+**[28-styleguide.html](28-styleguide.html)** - Horizontal rule example.
+```
+juangraram@juangraram$ 
+```
+**[29-index.html](29-index.html)** - Client quotes.
+```
+juangraram@juangraram$ 
+```
+**[30-styleguide.html](30-styleguide.html)** - Examples of quotes.
+```
+juangraram@juangraram$ 
+```
+**[31-index.html](31-index.html)** - Address and latest news authors.
+```
+juangraram@juangraram$ 
+```
+**[32-styleguide.html](32-styleguide.html)** - Typography section - using the correct tags.
+```
+juangraram@juangraram$ 
+```
+**[33-styleguide.html](33-styleguide.html)** - Table.
+```
+juangraram@juangraram$ 
+```
+**[34-styleguide.html](34-styleguide.html)** - Details.
+```
+juangraram@juangraram$ 
+```
+**[35-index.html](35-index.html)** - Replace text logo with image logo.
+```
+juangraram@juangraram$ 
+```
+**[36-index.html](36-index.html)** - Add images to your sections.
+```
+juangraram@juangraram$ 
+```
+**[index.html](index.html)** - Social icons.
+```
+juangraram@juangraram$ 
+```
+**[38-styleguide.html](38-styleguide.html)** -  Add a video player in the styleguide.
+```
+juangraram@juangraram$ 
+```
+**[39-styleguide.html](39-styleguide.html)** - Add an audio player in the styleguide.
+```
+juangraram@juangraram$ 
+```
+**[styleguide.html](styleguide.html)** - Add a iframe example in the styleguide.
+```
+juangraram@juangraram$ 
+```
 
 2021 - All programs written by Juan Granada ([@juangraram](https://twitter.com/JuanGraRam)) 
