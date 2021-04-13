@@ -4,12 +4,12 @@
 This project you will learn how to use HTML tags to structure a web page.
 
 ## Resources
-[HTML - elements of a web page](https://docs.google.com/document/d/1HRL_-AFexmLXec3j7MBDeAjl0rAFnjhe1TZte059gEA/edit){:target="_blank"}
-[HTML 5.2](https://www.w3.org/TR/html52/){:target="_blank"}
-[HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML){:target="_blank"}
-[HTML Reference - A free guide to all HTML elements and attributes](https://htmlreference.io/){:target="_blank"}
-[Can I use… Support tables for HTML5, CSS3, etc](https://caniuse.com/){:target="_blank"}
-[HTML Cheat Sheet - WebsiteSetup](https://websitesetup.org/html5-cheat-sheet/){:target="_blank"}
+* [HTML - elements of a web page](https://docs.google.com/document/d/1HRL_-AFexmLXec3j7MBDeAjl0rAFnjhe1TZte059gEA/edit)
+* [HTML 5.2](https://www.w3.org/TR/html52/)
+* [HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [HTML Reference - A free guide to all HTML elements and attributes](https://htmlreference.io/)
+* [Can I use… Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+* [HTML Cheat Sheet - WebsiteSetup](https://websitesetup.org/html5-cheat-sheet/)
 
 ## Requirements
 ### General
