@@ -1,0 +1,30 @@
+/* Scroll to the page <html> tag */
+html{
+    scroll-behavior: auto;
+    scroll-behavior: smooth;
+}
+
+/* Color to the body */
+body{
+    color: #161616;
+}
+
+/* Anchor elements anchor <a> tag */
+a{
+    color: #161616;
+}
+
+/* Class visually-hidden should have their display to none */
+.visually-hidden{
+    display: none;
+}
+
+/* Class card-category should have their foreground color set to #D73953 */
+.card-category{
+    color: #D73953;
+}
+
+/* Class section-tagline should have their foreground color set to #D73953 */
+.section-tagline{
+    color: #D73953;
+}
