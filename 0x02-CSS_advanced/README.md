@@ -40,7 +40,7 @@ This project you will learn how to use advanced CSS to make presentation of elec
 
 ## Tasks
 ### Mandatory
-**[images/pic-about-01.jpg](images/pic-about-01.jpg)** - Let's get some images!.
+**[images/](images/)** - Let's get some images!.
 ```
 The description of the project contains some inspiration for the final look of the project but we’ll have to download some images.
 juangraram@juangraram$ 
