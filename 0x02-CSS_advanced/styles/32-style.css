@@ -317,9 +317,7 @@ ul.row{
 .row::after{
     content: "";
     display: table;
-    float: none;
-    clear: right;
-    clear: left;
+    clear: both;
 }
 
 /* Social Style it so that it renders as a block element */
