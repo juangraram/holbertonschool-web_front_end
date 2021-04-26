@@ -20,7 +20,7 @@ html{
 
 /* Position the header-logo with the value of the variable header-logo-position */
 .header-logo {
-    position: var(--header-logo-link-position);
+    position: var(--header-logo-position);
 }
 
 /* Target the link inside the header-logo class */
