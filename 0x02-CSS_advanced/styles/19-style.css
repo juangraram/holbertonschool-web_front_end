@@ -137,7 +137,7 @@ ul.row{
 }
 
 /* Ul inside of the footer */
-footer ul{
+.footer ul{
     text-align: right;
 }
 
