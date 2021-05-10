@@ -50,31 +50,31 @@ This project was a brief introduction to the Forms with Html5.
 
 ## Tasks
 ### Mandatory
-**[0. basic comment structure](0. basic comment structure)** - To ensure we start on the same foot, use these files.
+**[0. basic comment structure](01-styles.css)** - To ensure we start on the same foot, use these files.
 ```
 juangraram@juangraram:
 ```
-**[1. more comment basic structure](1. more comment basic structure)** - From 01-article.html, create 02-article.html.
+**[1. more comment basic structure](02-styles.css)** - From 01-article.html, create 02-article.html.
 ```
 juangraram@juangraram:
 ```
-**[2. create labels and input container](2. create labels and input container)** - From 02-article.html, create 03-article.html and in the form which is in the comment section.
+**[2. create labels and input container](03-styles.css)** - From 02-article.html, create 03-article.html and in the form which is in the comment section.
 ```
 juangraram@juangraram:
 ```
-**[3. create the inputs](3. create the inputs)** - From 03-article.html, create 04-article.html.
+**[3. create the inputs](04-styles.css)** - From 03-article.html, create 04-article.html.
 ```
 juangraram@juangraram:
 ```
-**[4. add help messages](4. add help messages)** - From 04-article.html, create 05-article.html.
+**[4. add help messages](05-styles.css)** - From 04-article.html, create 05-article.html.
 ```
 juangraram@juangraram:
 ```
-**[5. add pure HTML / CSS error handling](5. add pure HTML / CSS error handling)** - From 05-styles.css, create 06-styles.css.
+**[5. add pure HTML / CSS error handling](06-styles.css)** - From 05-styles.css, create 06-styles.css.
 ```
 juangraram@juangraram:
 ```
-**[6. add the search form](6. add the search form)** - From 06-article.html, create 07-article.html.
+**[6. add the search form](07-styles.css)** - From 06-article.html, create 07-article.html.
 ```
 juangraram@juangraram:
 ```
