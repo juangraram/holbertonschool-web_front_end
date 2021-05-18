@@ -652,9 +652,9 @@ content: '';
 opacity: 1;
 }
 
-@media screen and (max-width: 767px) {
+@media (max-width: 767px) {
     .card-work .card-inner {
-        --text-color:--color-white;
+        --text-color: var(--color-white);
         position: relative;
     }
     .card-work .card-title {
